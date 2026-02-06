@@ -6,7 +6,7 @@ import requests
 import feedparser
 
 # Set your email address for Entrez
-Entrez.email = "mayurkumarkn@gmail.com"
+Entrez.email = "<email>"
 
 def format_date(raw_date):
     """
